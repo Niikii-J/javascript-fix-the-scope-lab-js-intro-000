@@ -1,4 +1,4 @@
-/*var animal = 'dog'
+var animal = 'dog'
 
 function myAnimal() {
   // You should not need to modify this function
@@ -22,7 +22,7 @@ function add2(n) {
   const two = 2
     return n + two
 }
-*/
+
 
 var funkyFunction = function() {
   return function() {
